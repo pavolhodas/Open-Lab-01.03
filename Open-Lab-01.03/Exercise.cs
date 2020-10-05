@@ -6,9 +6,8 @@ namespace Open_Lab_01._03
     {
         public int Addition(int number)
         {
-            int i = 5;
-            int vacsie = Addition(5);
-            return vacsie;
+            int Addition = number + 1;
+            return Addition;
         }
     }
 }
